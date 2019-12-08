@@ -6,9 +6,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-![Yura Song_Picture.jpg](https://github.com/yurasong/yurasong.github.io/blob/master/Yura%20Song_Picture.jpg)
-
-
 
 - Born in South Korea and studied in Korea and USA.
 - Currently in Bruxelles, as a PhD student in laboratory of cancer and Stem cells
