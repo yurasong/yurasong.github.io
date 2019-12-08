@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-![yurasong.jpg](https://github.com/yurasong/yurasong.github.io/blob/master/Yura%20Song_Picture.jpg)
+![Yura Song_Picture.jpg](https://github.com/yurasong/yurasong.github.io/blob/master/Yura%20Song_Picture.jpg)
 
 
 
