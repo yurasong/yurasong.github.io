@@ -36,7 +36,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 - BSc - Bioinformatics and bioengineering
   - College of Natural Science, Soongsil University (Seoul, South Korea)
-  - 2012. March - 2015. August
+  - March 2012 - August 2015
     - Thesis: _Identification of functional nucleotide and haplotype variants in the promoter of FGB gene (Supervisor: Chaeyoung Lee, PhD)_
     - Early graduation of academic excellence
 
