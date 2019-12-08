@@ -19,26 +19,26 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Education
 
-> PhD - Medical Science
-> Fqculty of Medicine - Université Libre de Bruxelles
-> 2016. Mar - Currently
-> Supervisor: Cédric Blanpain, MD PhD
+- PhD - Medical Science
+  - Faculty of Medicine - Université Libre de Bruxelles
+  - March 2018 - Currently
+  - Supervisor: Cédric Blanpain, MD PhD
 
-> MSc - Biochemistry
-> College of Medicine, Ewha Womans University (Seoul, South Korea)
-> 2016. Mar - 2018. Feb
-> Thesis: _Analysis of inconsistent mutation calls for cell lines in next generation sequencing databases (Supervisor: Hyung-Lae Kim, MD PhD)_
+- MSc - Biochemistry
+   - College of Medicine, Ewha Womans University (Seoul, South Korea)
+   - March 2016 - February 2018
+   - Thesis: _Analysis of inconsistent mutation calls for cell lines in next generation sequencing databases (Supervisor: Hyung-Lae Kim, MD PhD)_
 
-> Exchange Student Program
-> Colorado State University - Pueblo (CO, United States of America)
-> 2014. January - 2014. May
-> Biology and French Literature
+- Exchange Student Program
+  - Colorado State University - Pueblo (CO, United States of America)
+  - January 2014 - May 2014
+  - Biology and French Literature
 
 - BSc - Bioinformatics and bioengineering
   - College of Natural Science, Soongsil University (Seoul, South Korea)
   - March 2012 - August 2015
-    - Thesis: _Identification of functional nucleotide and haplotype variants in the promoter of FGB gene (Supervisor: Chaeyoung Lee, PhD)_
-    - Early graduation of academic excellence
+  - Thesis: _Identification of functional nucleotide and haplotype variants in the promoter of FGB gene (Supervisor: Chaeyoung Lee, PhD)_
+  - Early graduation of academic excellence
 
 
 ## Academic Experience
