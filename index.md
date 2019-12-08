@@ -59,6 +59,31 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ### Trainings
 
+- **Practical training - High-performance computing (HPC) training session**
+  - ULB-VUB shared ICT services centre (Bruxelles, Belgium)
+  - November 2019
+
+- **WGC Advanced Course: Systems Biology: From Large Datasets to Biological Insight**
+  - Wellcome Sanger Institute (Hinxton, United Kingdom)
+  - July 2019
+
+- **R for analysis of Clinical Data**
+  - College of Public Health, Seoul National University (Seoul, Korea)
+  - 2017 February
+
+- **Workshop for Statistical Genomics**
+  - Korea Genome Organization (Seoul, Korea)
+  - Epigenome Analysis / NGS Cancer Gene Panel Analysis and Applications / Analyses of Coding and Noncoding Transcriptomes (2017)
+  - Biostatistics using R / Genome Data Analysis using Korea Biobank Array / RNA Genome Analysis (2016)
+  - Cancer Genome Analysis / Genome Epidemiology / Genetic Variation and Disease (2015)
+
+- **Maestro Program - Extracurriculum**
+  - School of Systems Biomedical Science, Soongsil University (Seoul, Korea)
+  - Real-time PCR (2014)
+  - Computer-aided Drug Discovery (2014)
+  - Expression and Purification of Protein (2013)
+  - Genome-wide Associated Studies (2012)
+
 ### Publication
 
 > [False-negative errors in next-generation sequencing contribute substantially to inconsistency of mutation databases](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222535).
@@ -76,29 +101,29 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ### Talk and presentation
 
 - Clinical implications of proliferation activity in T1 or T2 male gastric cancer patients.
-  - December 2015, National Cancer Center Korea.
+  - December 2015, National Cancer Center (Ilsan, Korea)
 
 ### Academic Society
 
 | Field        | Academic Society          | Duration |
 |:-------------|:------------------|:------|
+| Bioinformatics | Korea Genome Organization   | January 2017 - Currently  |
 | Biochemistry   | Korean Society for Biochemistry and Molecular Biology | May 2016 - February 2018  |
-| Bioinformatics | Korea Genome Organization   | January 2017 - December 2017  |
 
 ## Honors and Awards
 
 - **Outstanding Speaker**
-  - December 2015, National Cancer Center, Korea
+  - December 2015, National Cancer Center (Ilsan, Korea)
 
 - **Graduation with Honors**
-  - August 2015, Soongsil University, Korean
+  - August 2015, Soongsil University (Seoul, Korea)
 
 - **Governmental Scholarship**
   - May 2014 - August 2015, Korea Student Aid Foundation
   - Full scholarship for two years, for who has excellence on studying science and engineering.
 
 - **Academic Excellence**
-  - September 2012, February 2013, Soongsil University, Korean
+  - September 2012, February 2013, Soongsil University (Seoul, Korea)
 
 ## Non-academic Experiences
 
