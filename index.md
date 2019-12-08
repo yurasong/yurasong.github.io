@@ -66,10 +66,23 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 | Field        | Academic Society          | Duration |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Biochemistry   | Korean Society for Biochemistry and Molecular Biology | May 2016 - February 2018  |
+| Bioinformatics | Korea Genome Organization   | January 2017 - December 2017  |
+
+## Honors and Awards
+
+- **Outstanding Speaker**
+  - December 2015, National Cancer Center, Korea
+
+- **Graduation with Honors**
+  - August 2015, Soongsil University, Korean
+
+- **Governmental Scholarship**
+  - May 2014 - August 2015, Korea Student Aid Foundation
+  - Full scholarship for two years, for who has excellence on studying science and engineering.
+
+- **Academic Excellence**
+  - September 2012, February 2013, Soongsil University, Korean
 
 ## Non-academic Experiences
 
