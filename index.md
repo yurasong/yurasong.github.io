@@ -44,6 +44,19 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ### In-field experience
 
+- **Associate Scientist**
+  - Omics Core Lab, National Cancer Center (Ilsan, Korea)
+  - April 2015 - February 2018
+  - Half bioinformatician and half molecular biologist
+
+- **Undergraduate Researcher**
+  - Laboratory of Statistical Genomics, Soongsil University (Seoul, Korea)
+  - March 2013 - March 2015
+
+- **Student Trainee**
+  - Laboratory of Statistical Genomics, Soongsil University (Seoul, Korea)
+  - June 2012 - February 2013
+
 ### Trainings
 
 ### Publication
@@ -61,6 +74,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 > Kim YW, Eom BW, Kook MC, Kim HS, Kim MK, Hwang HL, Chandra V, Poojan S, **Song Y**, Koh JS, Bae CD, Ro J, Hong KM. Exp Mol Med. 2015 Nov 6;47:e193
 
 ### Talk and presentation
+
+- Clinical implications of proliferation activity in T1 or T2 male gastric cancer patients.
+  - December 2015, National Cancer Center Korea.
 
 ### Academic Society
 
