@@ -19,35 +19,46 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Education
 
-- PhD - Medical Science
+- **PhD - Medical Science**
   - Faculty of Medicine - Université Libre de Bruxelles
   - March 2018 - Currently
   - Supervisor: Cédric Blanpain, MD PhD
 
-- MSc - Biochemistry
+- **MSc - Biochemistry**
    - College of Medicine, Ewha Womans University (Seoul, South Korea)
    - March 2016 - February 2018
    - Thesis: _Analysis of inconsistent mutation calls for cell lines in next generation sequencing databases (Supervisor: Hyung-Lae Kim, MD PhD)_
 
-- Exchange Student Program
+- **Exchange Student Program**
   - Colorado State University - Pueblo (CO, United States of America)
   - January 2014 - May 2014
   - Biology and French Literature
 
-- BSc - Bioinformatics and bioengineering
+- **BSc - Bioinformatics and bioengineering**
   - College of Natural Science, Soongsil University (Seoul, South Korea)
   - March 2012 - August 2015
   - Thesis: _Identification of functional nucleotide and haplotype variants in the promoter of FGB gene (Supervisor: Chaeyoung Lee, PhD)_
   - Early graduation of academic excellence
 
-
 ## Academic Experience
 
 ### In-field experience
 
-### Training and coursework
+### Trainings
 
 ### Publication
+
+> [False-negative errors in next-generation sequencing contribute substantially to inconsistency of mutation databases](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222535).
+>
+> Kim YH, **Song Y**, Kim JK, Kim TM, Sim HW, Kim HL, Jang H, Kim YW, Hong KM. PLoS One. 2019 Sep 12;14(9):e0222535
+
+> [Monitoring circulating tumor DNA by analyzing personalized cancer-specific rearrangements to detect recurrence in gastric cancer](https://www.nature.com/articles/s12276-019-0292-5).
+>
+> Kim YW, KIm YH, **Song Y**, Kim HS, Sim HW, Poojan S, Eom BW, Kook MC, Joo J, Hong KM. Exp Mol Med. 2019 Aug 8;51(8):93
+
+> [Clinical implications of proliferation activity in T1 or T2 male gastric cancer patients.](https://www.nature.com/articles/emm201579).
+>
+> Kim YW, Eom BW, Kook MC, Kim HS, Kim MK, Hwang HL, Chandra V, Poojan S, **Song Y**, Koh JS, Bae CD, Ro J, Hong KM. Exp Mol Med. 2015 Nov 6;47:e193
 
 ### Talk and presentation
 
@@ -73,7 +84,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ## Contact
 
 * Official e-mail: yura.song@ulb.ac.be
-* [Linkedin](https://www.linkedin.com/in/yurasong/).
+* [Linkedin](https://www.linkedin.com/in/yurasong/)
 
 ## Header 2
 
