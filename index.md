@@ -6,9 +6,16 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+![yurasong.jpg](https://github.com/yurasong/yurasong.github.io/blob/master/Yura%20Song_Picture.jpg)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+
+- Born in South Korea and studied in Korea and USA.
+- Currently in Bruxelles, as a PhD student in laboratory of cancer and Stem cells
+- Half wet-lab and half dried lab but decided to concentrate on computational biology
+- Population genomics > cancer biology > bioinformatician who is willing to reveal the genomic landscape underneath cancer
+- Brave to dive into new world
+- Music and crossfit besides
 
 ## Interest
 
@@ -16,6 +23,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 *   Analysis of Next-generation sequencing (NGS) data
 *   Understanding landscape underneath squamous cell carcinoma (SCC)
 *   Population genomics for syndromes including environmental factor
+*   Drug development and computer-aided drug design
 
 ## Education
 
