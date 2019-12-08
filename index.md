@@ -94,6 +94,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ### Language
 
+1.  Korean : Native
+2.  English: Bilingual proficiency
+  - Translation Qualification Certificate: Korean to English (July 2014, Korean Society of Translators)
+3.  Chinese (Mandarin) : Limited working proficiency
+4.  French : Elementary proficiency
+  - DELF A2 (November 2014, Alliance Française)
+
 ## Contact
 
 * Official e-mail: yura.song@ulb.ac.be
