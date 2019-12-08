@@ -10,21 +10,32 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-Career profile (maybe brief intro)
-Education
-Experiences
-Training and coursework
-Honor and Award
-Publication
-Talk and lecture
-Skills
-Language
-Contact
-Reference
+# Interest
 
-# Header 1
+# Education
+
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+# Academic Experience
+
+## Career
+
+## Training and coursework
+
+## Publication
+
+## Talk and lecture
+
+# Non-academic Experiences
+
+# Skills
+
+## Computational Biology
+
+## Language
+
+## Contact
 
 ## Header 2
 
