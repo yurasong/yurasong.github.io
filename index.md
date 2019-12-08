@@ -34,11 +34,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 > 2014. January - 2014. May
 > Biology and French Literature
 
-> BSc - Bioinformatics and bioengineering
-> College of Natural Science, Soongsil University (Seoul, South Korea)
-> 2012. March - 2015. August
-> Thesis: _Identification of functional nucleotide and haplotype variants in the promoter of FGB gene (Supervisor: Chaeyoung Lee, PhD)_
-> Early graduation of academic excellence
+- BSc - Bioinformatics and bioengineering
+  - College of Natural Science, Soongsil University (Seoul, South Korea)
+  - 2012. March - 2015. August
+    - Thesis: _Identification of functional nucleotide and haplotype variants in the promoter of FGB gene (Supervisor: Chaeyoung Lee, PhD)_
+    - Early graduation of academic excellence
+
 
 ## Academic Experience
 
@@ -55,6 +56,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ## Skills
 
 ### Computational Biology
+
+### Molecular and Cellular Biology
 
 ### Language
 
