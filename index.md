@@ -49,7 +49,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### In-field experience
 
-- **Associate Scientist**
+- **Associate Researcher**
   - Omics Core Lab, National Cancer Center (Ilsan, Korea)
   - April 2015 - February 2018
   - Half bioinformatician and half molecular biologist
@@ -71,6 +71,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 - **WGC Advanced Course: Systems Biology: From Large Datasets to Biological Insight**
   - Wellcome Sanger Institute (Hinxton, United Kingdom)
   - July 2019
+
+- **Good Clinical Practice Training**
+  - National Cancer Center (Ilsan, Korea)
+  - March 2017
+  - Qualification for Clinical Trial
 
 - **R for analysis of Clinical Data**
   - College of Public Health, Seoul National University (Seoul, Korea)
@@ -131,6 +136,25 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
   - September 2012, February 2013, Soongsil University (Seoul, Korea)
 
 ## Non-academic Experiences
+
+- **Career Advisory**
+  - Career Development Center, Soongsil University (Seoul, Korea)
+  - November 2016 - February 2018
+  - Consultation of students for further studies and career in biological field
+  - Proofreading of curriculum vitae and cover letter
+
+- **International Buddy**
+  - Ewha Womans University (Seoul, Korea)
+  - July 2016
+  - Joint program of National University of Singapore
+
+- **Korean Instructor**
+  - International Education Institute, Soongsil University (Seoul, Korea)
+  - December 2012 - February 2015
+
+- **Mathematics Instructor**
+  - Anyang Girls' High School (Anyang, Korea)
+  - July 2012 - September 2013
 
 ## Skills
 
