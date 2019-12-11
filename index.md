@@ -98,7 +98,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 > [False-negative errors in next-generation sequencing contribute substantially to inconsistency of mutation databases](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222535).
 >
-> Kim YH, **Song Y**, Kim JK, Kim TM, Sim HW, Kim HL, Jang H, Kim YW, Hong KM. PLoS One. 2019 Sep 12;14(9):e0222535
+> Kim YH, <ins>**Song Y**</ins>, Kim JK, Kim TM, Sim HW, Kim HL, Jang H, Kim YW, Hong KM. PLoS One. 2019 Sep 12;14(9):e0222535
 
 > [Monitoring circulating tumor DNA by analyzing personalized cancer-specific rearrangements to detect recurrence in gastric cancer](https://www.nature.com/articles/s12276-019-0292-5).
 >
