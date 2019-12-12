@@ -4,16 +4,17 @@ layout: default
 
 ## Background
 
-- Born in South Korea and studied in Korea and USA.
-- Currently in Bruxelles, as a PhD student in laboratory of cancer and Stem cells
-- Half wet-lab and half dried lab but decided to concentrate on computational biology
-- Population genomics > cancer biology > bioinformatician who is willing to reveal the genomic landscape underneath cancer
-- Brave to dive into new world
-- Music and crossfit besides
+I am a cancer biologist and bioinformatician, who is interested in understanding the secrets beneath cancer, especially squamous cell carcinoma and adenocarcinoma. Also, I am the one who is brave to dive into the unknown new world, and who could enjoy the adventure to find the new way who have not never tried.
+
+Currently I am in Belgium, as a PhD student having a role of full-bioinformatician.
+
+I have various base of biology due to the several in-field experiences, especially population genomics, functional genomics, oncology, molecular biology and computational biology. These days, mainly I am interested in understanding the mechanism of cancer genomic landscape and designing the new medicines for cancer treatment.
+
+I was half wet-lab and half dry-lab until my Master, however, I decided to concentrate on bioinformatics rather than keeping experiments. When I started my PhD, all of my interests are all related to more computational rather than experimental and I would like to keep continuing finding the answers for my interests.
 
 ## Interest
 
-*   Understanding of genomic landscape underneath squamous cell carcinoma (SCC)
+*   Understanding of genomic landscape underneath squamous cell carcinoma (SCC) and adenocarcinoma (ADC)
 *   Interpretation of chromatin and transcriptomic landscape regulating cancer mechanism
 *   Development of Next-Generation Sequencing (NGS) panel for colorectal cancer
 
@@ -164,8 +165,28 @@ layout: default
 ## Skills
 
 ### Computational Biology
+- **NGS Data Processing**
+  - Copy Number Variant (CNV) analysis
+  - Coding and non-coding transcriptome analysis
+  - Chromatin analysis by ChIP-seq and ATAC-seq
+  - NGS cancer panel analysis
+  - Basic level of single-cell sequencing data analysis
 
-### Molecular and Cellular Biology
+- **Downstream Analysis**
+  - Epigenome analysis
+  - Geneset Enrichment Analysis
+  - Pathway analysis
+  - Gene network definition and regulon analysis
+
+- **Computational Language**
+  - Perl and shell-based programming
+  - Intermediate level of Python
+  - R toolkit
+
+- **Further Skills**
+  - Basic level of computer aided drug discovery
+  - Pipeline design based on HPC with pbs format
+  - Visualization of data
 
 ### Language
 
