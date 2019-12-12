@@ -117,7 +117,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 | Field        | Academic Society          | Duration |
 |:-------------|:------------------|:------|
-| Bioinformatics | Korea Genome Organization   | January 2017 - Currently  |
+| Bioinformatics | Korea Genome Organization   | January 2017 - December 2018  |
 | Biochemistry   | Korean Society for Biochemistry and Molecular Biology | May 2016 - February 2018  |
 
 ## Honors and Awards
@@ -148,6 +148,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
   - July 2016
   - Joint program of National University of Singapore
 
+- **Dear Leaders - Marketing**
+  - Leaders Cosmetic (Seoul, Korea)
+  - July 2015 - February 2018
+  - Managing and creating marketing contents via web blog
+
 - **Korean Instructor**
   - International Education Institute, Soongsil University (Seoul, Korea)
   - December 2012 - February 2015
@@ -175,7 +180,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 * Official e-mail: yura.song@ulb.ac.be
 * [Linkedin](https://www.linkedin.com/in/yurasong/)
-* researchgate (will be linked)
+* [ResearchGate](https://www.researchgate.net/profile/Yura_Song?ev=hdr_xprf&_sg=g2cNMfb4uhXn4J9onTHRB0QmtpXQWmJ3YA93nqu9zynhck--9DSlvm0euyoV5y5_d1AdUwRBnEk6ZHnCSVmwLzox)
 
 ## Header 2
 
