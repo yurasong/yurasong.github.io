@@ -12,6 +12,8 @@ I have various base of biology due to the several in-field experiences, especial
 
 I was half wet-lab and half dry-lab until my Master, however, I decided to concentrate on bioinformatics rather than keeping experiments. When I started my PhD, all of my interests are all related to more computational rather than experimental and I would like to keep continuing finding the answers for my interests.
 
+My ultimate goal studying bioinformatics and cancer biology is finding the new way to save more people who are fighting with the various type of cancer with less side-effect. Even the rare cancer, with lower occurrence, I would like to find a solution. In other words, my goal would be same meaning to bring back the happier life for the cancer patients and their family, by using science and technology.
+
 ## Interest
 
 *   Understanding of genomic landscape underneath squamous cell carcinoma (SCC) and adenocarcinoma (ADC)
