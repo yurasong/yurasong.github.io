@@ -19,9 +19,9 @@ I was half wet-lab and half dry-lab until my Master, however, I decided to conce
 *   Development of Next-Generation Sequencing (NGS) panel for colorectal cancer
 
 *   Computer-aided drug design of anti-cancer reagent
-*   Drug development of anti-allergy reagent
+*   Drug development of anti-cancer treatment reducing side-effects
 
-*   Population genomics for Tourette's syndrome
+*   Population genomics for rare cancer
 
 ## Education
 
