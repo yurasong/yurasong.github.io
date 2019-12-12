@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## Background
+
 - Born in South Korea and studied in Korea and USA.
 - Currently in Bruxelles, as a PhD student in laboratory of cancer and Stem cells
 - Half wet-lab and half dried lab but decided to concentrate on computational biology
@@ -22,7 +24,7 @@ layout: default
 ## Education
 
 - **PhD - Medical Science**
-  - Faculty of Medicine - Université Libre de Bruxelles
+  - Faculty of Medicine - Université Libre de Bruxelles (Bruxelles, Belgium)
   - March 2018 - Currently
   - Supervisor: Cédric Blanpain, MD PhD
 
