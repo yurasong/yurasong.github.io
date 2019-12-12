@@ -13,13 +13,14 @@ layout: default
 
 ## Interest
 
-*   Understanding genomic landscape underneath squamous cell carcinoma (SCC)
-*   will be added
+*   Understanding of genomic landscape underneath squamous cell carcinoma (SCC)
+*   Interpretation of chromatin and transcriptomic landscape regulating cancer mechanism
+*   Development of Next-Generation Sequencing (NGS) panel for colorectal cancer
 
-*   Drug development and computer-aided drug design for cancer
+*   Computer-aided drug design of anti-cancer reagent
+*   Drug development of anti-allergy reagent
 
-*   Population genomics for syndromes including environmental factor
-
+*   Population genomics for Tourette's syndrome
 
 ## Education
 
