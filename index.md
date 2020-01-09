@@ -107,9 +107,13 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
 >
 > Kim YW, KIm YH, **Song Y**, Kim HS, Sim HW, Poojan S, Eom BW, Kook MC, Joo J, Hong KM. Exp Mol Med. 2019 Aug 8;51(8):93
 
-> [Clinical implications of proliferation activity in T1 or T2 male gastric cancer patients.](https://www.nature.com/articles/emm201579).
+> [Clinical implications of proliferation activity in T1 or T2 male gastric cancer patients](https://www.nature.com/articles/emm201579).
 >
 > Kim YW, Eom BW, Kook MC, Kim HS, Kim MK, Hwang HL, Chandra V, Poojan S, **Song Y**, Koh JS, Bae CD, Ro J, Hong KM. Exp Mol Med. 2015 Nov 6;47:e193
+
+> [Epidermal autonomous VEGFA/Flt1/Nrp1 functions mediate psoriasis-like disease](https://doi.org/10.1126/sciadv.aax5849).
+>
+> Benhadou F, Giltzner E, Brisebarre A, Swedlund B, **Song Y**, Dubois C, Rozzi M, Paulissen C, del Marmol V, Sibilia M, Blanpain C. , Sci. Adv. 2020 Jan 8; 6: eaax5849
 
 ### Talk and presentation
 
