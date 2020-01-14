@@ -155,10 +155,10 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
   - July 2016
   - Joint program of National University of Singapore
 
-- **Dear Leaders - Marketing**
+- **Dear Leaders - Marketer**
   - Leaders Cosmetic (Seoul, Korea)
   - July 2015 - February 2018
-  - Managing and creating marketing contents via web blog
+  - Managing and creating marketing contents via social networks (Blog and Instagram)
 
 - **Korean Instructor**
   - International Education Institute, Soongsil University (Seoul, Korea)
