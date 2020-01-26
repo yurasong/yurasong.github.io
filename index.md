@@ -99,6 +99,10 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
 
 ### Publication
 
+> [Epidermal autonomous VEGFA/Flt1/Nrp1 functions mediate psoriasis-like disease](https://doi.org/10.1126/sciadv.aax5849).
+>
+> Benhadou F, Giltzner E, Brisebarre A, Swedlund B, **Song Y**, Dubois C, Rozzi M, Paulissen C, del Marmol V, Sibilia M, Blanpain C. , Sci. Adv. 2020 Jan 8; 6: eaax5849
+
 > [False-negative errors in next-generation sequencing contribute substantially to inconsistency of mutation databases](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222535).
 >
 > Kim YH, **Song Y**, Kim JK, Kim TM, Sim HW, Kim HL, Jang H, Kim YW, Hong KM. PLoS One. 2019 Sep 12;14(9):e0222535
@@ -110,10 +114,6 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
 > [Clinical implications of proliferation activity in T1 or T2 male gastric cancer patients](https://www.nature.com/articles/emm201579).
 >
 > Kim YW, Eom BW, Kook MC, Kim HS, Kim MK, Hwang HL, Chandra V, Poojan S, **Song Y**, Koh JS, Bae CD, Ro J, Hong KM. Exp Mol Med. 2015 Nov 6;47:e193
-
-> [Epidermal autonomous VEGFA/Flt1/Nrp1 functions mediate psoriasis-like disease](https://doi.org/10.1126/sciadv.aax5849).
->
-> Benhadou F, Giltzner E, Brisebarre A, Swedlund B, **Song Y**, Dubois C, Rozzi M, Paulissen C, del Marmol V, Sibilia M, Blanpain C. , Sci. Adv. 2020 Jan 8; 6: eaax5849
 
 ### Talk and presentation
 
