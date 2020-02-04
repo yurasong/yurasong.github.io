@@ -115,7 +115,7 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
 >
 > Kim YW, Eom BW, Kook MC, Kim HS, Kim MK, Hwang HL, Chandra V, Poojan S, **Song Y**, Koh JS, Bae CD, Ro J, Hong KM. Exp Mol Med. 2015 Nov 6;47:e193
 
-### Talk and presentation
+### Invited Talk and presentation
 
 - Clinical implications of proliferation activity in T1 or T2 male gastric cancer patients.
   - December 2015, National Cancer Center (Ilsan, Korea)
@@ -141,6 +141,14 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
 
 - **Academic Excellence**
   - September 2012, February 2013, Soongsil University (Seoul, Korea)
+  
+## Funding
+
+| Funding        | Foundation / Hosts          | Duration |
+|:-------------|:------------------|:------|
+| Télévie Grant | F.R.S.-FNRS   | March 2019 - March 2021  |
+| Fond d'Erasme   | Université Libre de Bruxelles | March 2018 - March 2019  |
+
 
 ## Non-academic Experiences
 
