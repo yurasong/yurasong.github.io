@@ -118,7 +118,7 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
 ### Invited Talk and presentation
 
 - Mechanisms Regulating Tumour Transition States
-  - March 2020, Soongsil University (Webinar)
+  - March 2020, Soongsil University (Seoul, Korea)
 - Clinical implications of proliferation activity in T1 or T2 male gastric cancer patients.
   - December 2015, National Cancer Center (Ilsan, Korea)
 
