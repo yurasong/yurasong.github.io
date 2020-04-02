@@ -6,7 +6,7 @@ layout: default
 
 I am a cancer biologist and bioinformatician, who is interested in understanding the secrets beneath cancer, especially squamous cell carcinoma and adenocarcinoma. Also, I am the one who is brave to dive into the unknown new world, and who could enjoy the adventure to find the new way who have not never tried.
 
-Currently I am in Belgium, as a PhD student having a role of full-bioinformatician.
+Currently I am in Belgium, as a PhD student having a role of bioinformatician and data analyst.
 
 I have various base of biology due to the several in-field experiences, especially population genomics, functional genomics, oncology, molecular biology and computational biology. These days, mainly I am interested in understanding the mechanism of cancer genomic landscape and designing the new medicines for cancer treatment.
 
@@ -23,7 +23,7 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
 *   Computer-aided drug design of anti-cancer reagent
 *   Drug development of anti-cancer treatment having less side-effect or resistance
 
-*   Population genomics for rare cancer, occurrence less than 0.1%
+*   Population genomics for the cancers with rare occurrance
 
 ## Education
 
@@ -51,6 +51,11 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
 ## Academic Experience
 
 ### In-field experience
+
+- **Volunteer Researcher**
+  - COVID-19 Diagnosis Platform, Hôpital Erasme (Brussels, Belgium)
+  - March 2020 - April 2020
+  - Data encoding and IT support
 
 - **Associate Researcher**
   - Omics Core Lab, National Cancer Center (Ilsan, Korea)
@@ -121,6 +126,11 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
   - March 2020, Soongsil University (Seoul, Korea)
 - Clinical implications of proliferation activity in T1 or T2 male gastric cancer patients.
   - December 2015, National Cancer Center (Ilsan, Korea)
+
+### Lecture
+- [R session : Basics of R and Manipulation of Dataset](https://github.com/sumeetpalsingh/R_course)
+  - April 2020, IRIBHM, Université Libre de Bruxelles (Brussels, Belgium)
+  - In corporation of Sumeet Pal Singh
 
 ### Academic Society
 
