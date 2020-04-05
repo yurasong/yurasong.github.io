@@ -53,6 +53,11 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
 ### In-field experience
 
 - **Volunteer Researcher**
+  - Crowdfight COVID-19
+  - April 2020 -
+  - Following the request - mainly for Data analysis
+
+- **Volunteer Researcher**
   - COVID-19 Diagnosis Platform, Hôpital Erasme (Brussels, Belgium)
   - March 2020 - April 2020
   - Data encoding and IT support
