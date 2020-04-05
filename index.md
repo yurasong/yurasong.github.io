@@ -233,3 +233,4 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
 * Official e-mail: yura.song@ulb.ac.be
 * [Linkedin](https://www.linkedin.com/in/yurasong/)
 * [ResearchGate](https://www.researchgate.net/profile/Yura_Song?ev=hdr_xprf&_sg=g2cNMfb4uhXn4J9onTHRB0QmtpXQWmJ3YA93nqu9zynhck--9DSlvm0euyoV5y5_d1AdUwRBnEk6ZHnCSVmwLzox)
+* [Twitter](https://twitter.com/yura__song)
