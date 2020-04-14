@@ -4,23 +4,21 @@ layout: default
 
 ## Background
 
-I am a cancer biologist and bioinformatician, who is interested in understanding the secrets beneath cancer, especially squamous cell carcinoma and adenocarcinoma. Also, I am the one who is brave to dive into the unknown new world, and who could enjoy the adventure to find the new way who have not never tried.
+I am a cancer biologist and bioinformatician, who is interested in understanding the secrets beneath several different cancer types. Also, I am the one who is brave to dive into the unknown new world, and who could enjoy the adventure to find the new way who have not never tried.
 
 Currently I am in Belgium, as a PhD student having a role of bioinformatician and data analyst.
 
 I have various base of biology due to the several in-field experiences, especially population genomics, functional genomics, oncology, molecular biology and computational biology. These days, mainly I am interested in understanding the mechanism of cancer genomic landscape and designing the new medicines for cancer treatment.
 
-I was half wet-lab and half dry-lab until my Master, however, I decided to concentrate on bioinformatics rather than keeping experiments. When I started my PhD, all of my interests are all related to more computational rather than experimental and I would like to keep continuing finding the answers for my interests.
-
-My ultimate goal studying bioinformatics and cancer biology is finding the new way to save more people who are fighting with the various type of cancer with less side-effect. Even the rare cancer, with lower occurrence, I would like to find a solution. In other words, my goal would be same meaning to bring back the happier life for the cancer patients and their family, by using science and technology.
+My ultimate goal studying bioinformatics and cancer biology is finding the new way to save more people who are fighting with the various type of cancer. Even the rare cancer, with lower occurrence, I would like to find a solution. In other words, my goal to study is to bring back the happier life for the patients and their family, with science and technology.
 
 ## Interest
 
-*   Understanding of genomic landscape underneath squamous cell carcinoma (SCC) and adenocarcinoma (ADC)
+*   Understanding of genomic landscape of cancers with tumour heterogeneity
 *   Interpretation of chromatin and transcriptomic landscape regulating cancer mechanism
-*   Development of Next-Generation Sequencing (NGS) panel for colorectal cancer
+*   Development of Next-Generation Sequencing (NGS) panel for cancer using genomic variations
 
-*   Computer-aided drug design of anti-cancer reagent
+*   Computer-aided drug design of anti-cancer medicine
 *   Drug development of anti-cancer treatment having less side-effect or resistance
 
 *   Population genomics for the cancers with rare occurrance
@@ -54,7 +52,7 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
 
 - **Volunteer Researcher**
   - Crowdfight COVID-19
-  - April 2020 -
+  - April 2020 - Currently
   - Following the request - mainly for Data analysis
 
 - **Volunteer Researcher**
