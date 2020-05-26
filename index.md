@@ -40,7 +40,7 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
   - January 2014 - May 2014
   - Biology and French Literature
 
-- **BSc - Bioinformatics and bioengineering**
+- **BSc - Bioinformatics and Bioengineering**
   - College of Natural Science, Soongsil University (Seoul, South Korea)
   - March 2012 - August 2015
   - Thesis: _Identification of functional nucleotide and haplotype variants in the promoter of FGB gene (Supervisor: Chaeyoung Lee, PhD)_
@@ -135,13 +135,6 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
   - April 2020, IRIBHM, Université Libre de Bruxelles (Brussels, Belgium)
   - In corporation of Sumeet Pal Singh
 
-### Academic Society
-
-| Field        | Academic Society          | Duration |
-|:-------------|:------------------|:------|
-| Bioinformatics | Korea Genome Organization   | January 2017 - December 2018  |
-| Biochemistry   | Korean Society for Biochemistry and Molecular Biology | May 2016 - February 2018  |
-
 ## Honors and Awards
 
 - **Outstanding Speaker**
@@ -173,24 +166,10 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
   - Consultation of students for further studies and career in biological field
   - Proofreading of curriculum vitae and cover letter
 
-- **International Buddy**
-  - Ewha Womans University (Seoul, Korea)
-  - July 2016
-  - Joint program of National University of Singapore
-
-- **Dear Leaders - Marketer**
-  - Leaders Cosmetic (Seoul, Korea)
-  - July 2015 - February 2018
-  - Managing and creating marketing contents via social networks (Blog and Instagram)
-
 - **Korean Instructor**
   - International Education Institute, Soongsil University (Seoul, Korea)
   - December 2012 - February 2015
-
-- **Mathematics Instructor**
-  - Anyang Girls' High School (Anyang, Korea)
-  - July 2012 - September 2013
-
+  
 ## Skills
 
 ### Computational Biology
