@@ -146,10 +146,6 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
 - **Graduation with Honors**
   - August 2015, Soongsil University (Seoul, Korea)
 
-- **Governmental Scholarship**
-  - May 2014 - August 2015, Korea Student Aid Foundation
-  - Full scholarship for two years, for who has excellence on studying science and engineering.
-
 - **Academic Excellence**
   - September 2012, February 2013, Soongsil University (Seoul, Korea)
   
@@ -158,8 +154,8 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
 | Funding        | Foundation / Hosts          | Duration |
 |:-------------|:------------------|:------|
 | Télévie Grant | F.R.S.-FNRS   | March 2019 - March 2021  |
-| Fond d'Erasme   | Université Libre de Bruxelles | March 2018 - March 2019  |
-
+| Fond d'Erasme | Université Libre de Bruxelles | March 2018 - March 2019  |
+| National Science & Technology Scholarship | Korea Student Aid Foundation | May 2014 - August 2015 |
 
 ## Non-academic Experiences
 
