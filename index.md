@@ -131,7 +131,7 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
   - December 2015, National Cancer Center (Ilsan, Korea)
 
 ### Lecture
-- [Introductory NGS course] (https://github.com/sumeetpalsingh/NGS_Course)
+- [Introductory NGS course](https://github.com/sumeetpalsingh/NGS_Course)
   - June 2020, IRIBHM, Université Libre de Bruxelles (Brussels, Belgium)
   - In corporation of Sumeet Pal Singh
 - [R session : Basics of R and Manipulation of Dataset](https://github.com/sumeetpalsingh/R_course)
