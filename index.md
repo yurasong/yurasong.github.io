@@ -44,7 +44,7 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
   - College of Natural Science, Soongsil University (Seoul, South Korea)
   - March 2012 - August 2015
   - Thesis: _Identification of functional nucleotide and haplotype variants in the promoter of FGB gene (Supervisor: Chaeyoung Lee, PhD)_
-  - Early graduation of academic excellence
+  - Early graduation of academic excellence 
 
 ## Academic Experience
 
@@ -154,6 +154,7 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
 
 | Funding        | Foundation / Hosts          | Duration |
 |:-------------|:------------------|:------|
+| Télévie Grant | F.R.S.-FNRS   | March 2021 - March 2023  |
 | Télévie Grant | F.R.S.-FNRS   | March 2019 - March 2021  |
 | Fond d'Erasme | Université Libre de Bruxelles | March 2018 - March 2019  |
 | National Science & Technology Scholarship | Korea Student Aid Foundation | May 2014 - August 2015 |
