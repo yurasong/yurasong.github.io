@@ -107,9 +107,13 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
 
 ### Publication
 
+> [Cancer cells undergoing epigenetic transition show short-term resistance and are transformed into cells with medium-term resistance by drug treatment](https://www.nature.com/articles/s12276-020-0464-3).
+>
+> Poojan S, Bae SH, Min JW, Lee EY, **Song Y**, Kim HY, Sim HY, Kang EK, Kim YH, Lee HO, Hong Y, Park WY, Hang H, Hong KM. Exp Mol Med. 2020 Jul 13.
+
 > [Epidermal autonomous VEGFA/Flt1/Nrp1 functions mediate psoriasis-like disease](https://doi.org/10.1126/sciadv.aax5849).
 >
-> Benhadou F, Giltzner E, Brisebarre A, Swedlund B, **Song Y**, Dubois C, Rozzi M, Paulissen C, del Marmol V, Sibilia M, Blanpain C. , Sci. Adv. 2020 Jan 8; 6: eaax5849
+> Benhadou F, Giltzner E, Brisebarre A, Swedlund B, **Song Y**, Dubois C, Rozzi M, Paulissen C, del Marmol V, Sibilia M, Blanpain C. Sci. Adv. 2020 Jan 8;6: eaax5849
 
 > [False-negative errors in next-generation sequencing contribute substantially to inconsistency of mutation databases](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222535).
 >
