@@ -107,6 +107,10 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
 
 ### Publication
 
+> [Mechanisms of stretch-mediated skin expansion at single-cell resolution](https://www.nature.com/articles/s41586-020-2555-7).
+>
+> Aragona M, Sifrim A, Malfait M, **Song Y**, Herch JV, Dekoninck S, Gargouri S, Lapouge G, Swedlund B, Dubois C, Baatsen P, Vints K, Han S, Tissir F, Voet T, Simons BD, Blanpain C. Exp Mol Med. 2020 Jul 13.
+
 > [Cancer cells undergoing epigenetic transition show short-term resistance and are transformed into cells with medium-term resistance by drug treatment](https://www.nature.com/articles/s12276-020-0464-3).
 >
 > Poojan S, Bae SH, Min JW, Lee EY, **Song Y**, Kim HY, Sim HY, Kang EK, Kim YH, Lee HO, Hong Y, Park WY, Hang H, Hong KM. Exp Mol Med. 2020 Jul 13.
