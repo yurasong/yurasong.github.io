@@ -107,6 +107,10 @@ My ultimate goal studying bioinformatics and cancer biology is finding the new w
 
 ### Publication
 
+> [Heterotypic cell–cell communication regulates glandular stem cell multipotency](https://www.nature.com/articles/s41586-020-2632-y).
+>
+> Centonze A, Lin S, Tika E, Sifrim A, Fioramonti M, Malfait M, **Song Y**, Wuidart A, Herck JV, Dannau A, Bouvencourt G, Dubois C, Dedoncker N, Sahaay A, de Maertelaer V, Siebel SW, Keymeulen AV, Voet T, Blanpain C. Nature. 2020 Aug 26; 584, 608–613.
+
 > [Mechanisms of stretch-mediated skin expansion at single-cell resolution](https://www.nature.com/articles/s41586-020-2555-7).
 >
 > Aragona M, Sifrim A, Malfait M, **Song Y**, Herch JV, Dekoninck S, Gargouri S, Lapouge G, Swedlund B, Dubois C, Baatsen P, Vints K, Han S, Tissir F, Voet T, Simons BD, Blanpain C. Exp Mol Med. 2020 Jul 13; 584, 268–273.
