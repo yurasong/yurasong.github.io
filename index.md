@@ -4,13 +4,13 @@ layout: default
 
 ## Background
 
-I am a cancer biologist and bioinformatician, who is interested in understanding the secrets beneath several different cancer types. Also, I am the one who is brave to dive into the unknown new world, and who could enjoy the adventure to find the new way who have not never tried.
+I am a bioinformatician and cancer biologist, who is interested in understanding the secrets beneath several different cancers. Also, I am the one who is brave to dive into the unknown, and who loves the adventure to find something new who have not never tried.
 
-Currently I am in Belgium, as a PhD student having a role of bioinformatician and data analyst.
+I have been studied in South Korea and the United States. Currently I am in Belgium, as a PhD student having a role of bioinformatician and data analyst.
 
-I have various base of biology due to the several in-field experiences, especially population genomics, functional genomics, oncology, molecular biology and computational biology. These days, mainly I am interested in understanding the mechanism of cancer genomic landscape and designing the new medicines for cancer treatment.
+I have various background due to the several in-field experiences, especially population genomics, functional genomics, oncology, molecular biology and computational biology. These days, I am mainly interested in understanding the mechanism of cancer genomic landscape and connecting it to the cancer treatment. 
 
-My ultimate goal studying bioinformatics and cancer biology is finding the new way to save more people who are fighting with the various type of cancer. Even the rare cancer, with lower occurrence, I would like to find a solution. In other words, my goal to study is to bring back the happier life for the patients and their family, with science and technology.
+My ultimate goal of studying bioinformatics and cancer biology is finding the new way to save more people who are fighting with the various types of cancer. In other words, my goal to study is bringing back the happier life for the patients and their family, with science and technology.
 
 ## Interest
 
