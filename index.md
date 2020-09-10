@@ -214,6 +214,7 @@ My ultimate goal of studying bioinformatics and cancer biology is finding the ne
 1.  Korean : Native
 2.  English: Bilingual proficiency
   - Translation Qualification Certificate: Korean to English (July 2014, Korean Society of Translators)
+  - Translator of Embry-Riddle Aeronautical University Information Session in Seoul (October 2017)
 3.  Chinese (Mandarin) : Limited working proficiency
 4.  French : Elementary proficiency
   - DELF A2 (November 2014, Alliance Française)
