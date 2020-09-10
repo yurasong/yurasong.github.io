@@ -178,9 +178,19 @@ My ultimate goal of studying bioinformatics and cancer biology is finding the ne
   - November 2016 - February 2018
   - Consultation of students for further studies and career in biological field
   - Proofreading of curriculum vitae and cover letter
+  
+- **Interpreter : KOR - ENG**
+  - Embry-Riddle Aeronautical University Information Session in Seoul
+  - October 2017
 
+- **Translator : KOR - ENG**
+  - Eunsan Civil Engineering Coorporate (Seoul and Jeju, Korea)
+  - Translation of official documents to be sent to Vietnam and Lybia
+  
 - **Korean Instructor**
   - International Education Institute, Soongsil University (Seoul, Korea)
+  - Korean instruction for international students, Level 1
+  - Teaching in English and Chinese (Mandarin)
   - December 2012 - February 2015
   
 ## Skills
@@ -214,7 +224,6 @@ My ultimate goal of studying bioinformatics and cancer biology is finding the ne
 1.  Korean : Native
 2.  English: Bilingual proficiency
   - Translation Qualification Certificate: Korean to English (July 2014, Korean Society of Translators)
-  - Interpreter of Embry-Riddle Aeronautical University Information Session in Seoul (October 2017)
 3.  Chinese (Mandarin) : Limited working proficiency
 4.  French : Elementary proficiency
   - DELF A2 (November 2014, Alliance Française)
