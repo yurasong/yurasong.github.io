@@ -8,7 +8,7 @@ I am a bioinformatician and cancer biologist, who is interested in understanding
 
 I have been studied in South Korea and the United States. Currently I am in Belgium, as a PhD student having a role of bioinformatician and data analyst.
 
-I have various background due to the several in-field experiences, especially population genomics, functional genomics, oncology, molecular biology and computational biology. These days, I am mainly interested in understanding the mechanism of cancer genomic landscape and connecting it to the cancer treatment. 
+I have various background due to the several in-field experiences, especially population genomics, functional genomics, cancer biology, molecular biology and bioinformatics. These days, I am mainly interested in understanding the mechanism of cancer genomic landscape and connecting it to the cancer treatment. 
 
 My ultimate goal of studying bioinformatics and cancer biology is finding the new way to save more people who are fighting with the various types of cancer. In other words, my goal to study is bringing back the happier life for the patients and their family, with science and technology.
 
