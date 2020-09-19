@@ -166,8 +166,7 @@ My ultimate goal of studying bioinformatics and cancer biology is finding the ne
 
 | Funding        | Foundation / Hosts          | Duration |
 |:-------------|:------------------|:------|
-| Télévie Grant | F.R.S.-FNRS   | March 2021 - March 2023  |
-| Télévie Grant | F.R.S.-FNRS   | March 2019 - March 2021  |
+| Télévie Grant | F.R.S.-FNRS   | March 2019 - March 2023  |
 | Fond d'Erasme | Université Libre de Bruxelles | March 2018 - March 2019  |
 | National Science & Technology Scholarship | Korea Student Aid Foundation | May 2014 - August 2015 |
 
