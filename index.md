@@ -162,11 +162,19 @@ My ultimate goal of studying bioinformatics and cancer biology is finding the ne
 - **Academic Excellence**
   - September 2012, February 2013, Soongsil University (Seoul, Korea)
   
+## Academic Society
+
+| Organization        | Classification          | Duration |
+|:-------------|:------------------|:------|
+| Korean Scientists and Engineers Association in Belgium (KOSEA BE) | Member | November 2020 - |
+| Korea Genome Organization | Student | July 2015 - February 2018 |
+| Korean Society for Biochemistry and Molecular Biology (KSBMB) | Student | May 2015 - February 2018 |
+  
 ## Funding
 
 | Funding        | Foundation / Hosts          | Duration |
 |:-------------|:------------------|:------|
-| Télévie Grant | F.R.S.-FNRS   | March 2019 - March 2023  |
+| Télévie Grant | F.R.S.-FNRS | March 2019 - March 2023 |
 | Fond d'Erasme | Université Libre de Bruxelles | March 2018 - March 2019  |
 | National Science & Technology Scholarship | Korea Student Aid Foundation | May 2014 - August 2015 |
 
