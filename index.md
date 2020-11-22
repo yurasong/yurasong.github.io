@@ -52,7 +52,7 @@ My ultimate goal of studying bioinformatics and cancer biology is finding the ne
 
 - **Volunteer Researcher**
   - Crowdfight COVID-19
-  - April 2020 - Currently
+  - April 2020 - October 2020
   - Following the request - mainly for Data analysis
 
 - **Volunteer Researcher**
