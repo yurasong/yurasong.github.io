@@ -210,13 +210,14 @@ My ultimate goal of studying bioinformatics and cancer biology is finding the ne
   - Chromatin analysis by ChIP-seq and ATAC-seq
   - NGS cancer panel analysis
   - Basic level of single-cell sequencing data analysis
+  - Ingenuity Pathway Analysis
 
 - **Downstream Analysis**
   - Epigenome analysis
   - Geneset Enrichment Analysis
   - Pathway analysis
   - Gene network definition and regulon analysis
-
+  
 - **Computational Language**
   - Perl and shell-based programming
   - Intermediate level of Python
@@ -226,6 +227,7 @@ My ultimate goal of studying bioinformatics and cancer biology is finding the ne
   - Basic level of computer aided drug discovery
   - Pipeline design based on HPC with pbs format
   - Visualization of data
+  - Biological statistics
 
 ### Language
 
