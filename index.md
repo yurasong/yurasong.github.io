@@ -108,6 +108,10 @@ My ultimate goal of studying bioinformatics and cancer biology is finding the ne
 
 ### Publication
 
+> [Fat1 deletion promotes hybrid EMT state, tumour stemness and metastasis](https://www.nature.com/articles/s41586-020-03046-1).
+>
+> Pastushenko I, Mauri F, **Song Y**, de Cock F, Meeusen B, Swedlund B, Impens F, Van Haver D, Opitz M, Thery M, Bareche Y, Lapouge G, Vermeersh M, Van eycke YR, Balsat C, Deccaestecker C, Sokolow Y, Hassid S, Perez-Bustillo A, Agreda-Moreno B, Rios-Buceta L, Jaen P, Redondo P, Sieira-Gil R, Millan-Cayetano FJ, Sanmatrtin O,  D'Haene N,  Moers V, Rozzi M, Blondeau J, Lemaire S, Scozzaro S, Janssens V, De Troya M, Dubois C, Pérez-Morga D, Salmon I, Sotiriou C, Helmbacher F, Blanpain C. Nature. 2020 Dec 16
+
 > [Heterotypic cell–cell communication regulates glandular stem cell multipotency](https://www.nature.com/articles/s41586-020-2632-y).
 >
 > Centonze A, Lin S, Tika E, Sifrim A, Fioramonti M, Malfait M, **Song Y**, Wuidart A, Herck JV, Dannau A, Bouvencourt G, Dubois C, Dedoncker N, Sahaay A, de Maertelaer V, Siebel SW, Van Keymeulen A, Voet T, Blanpain C. Nature. 2020 Aug 26; 584, 608–613.
