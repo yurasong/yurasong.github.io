@@ -25,7 +25,7 @@ My ultimate goal of studying bioinformatics and cancer biology is finding the ne
 
 ## Education
 
-- **PhD - Medical Science**
+- **PhD - Biomedicine and Pharmacy (Medicine)**
   - Faculty of Medicine - Université Libre de Bruxelles (Bruxelles, Belgium)
   - March 2018 - Currently
   - Supervisor: Cédric Blanpain, MD PhD
@@ -38,10 +38,10 @@ My ultimate goal of studying bioinformatics and cancer biology is finding the ne
 - **Exchange Student Program**
   - Colorado State University - Pueblo (CO, United States of America)
   - January 2014 - May 2014
-  - Biology and French Literature
+  - Department of Biology
 
 - **BSc - Bioinformatics and Bioengineering**
-  - College of Natural Science, Soongsil University (Seoul, South Korea)
+  - School of Systems Biomedical Science, College of Natural Science, Soongsil University (Seoul, South Korea)
   - March 2012 - August 2015
   - Thesis: _Identification of functional nucleotide and haplotype variants in the promoter of FGB gene (Supervisor: Chaeyoung Lee, PhD)_
   - Early graduation of academic excellence 
@@ -77,8 +77,8 @@ My ultimate goal of studying bioinformatics and cancer biology is finding the ne
 ### Trainings
 
 - **Practical training - High-performance computing (HPC) training session**
-  - ULB-VUB shared ICT services centre (Bruxelles, Belgium)
-  - November 2019
+  - Consortium des Équipements de Calcul Intensif (Louvain-la-Neuve, Belgium) : November 2020
+  - ULB-VUB shared ICT services centre (Bruxelles, Belgium) : November 2019
 
 - **WGC Advanced Course: Systems Biology: From Large Datasets to Biological Insight**
   - Wellcome Sanger Institute (Hinxton, United Kingdom)
@@ -95,16 +95,16 @@ My ultimate goal of studying bioinformatics and cancer biology is finding the ne
 
 - **Workshop for Statistical Genomics**
   - Korea Genome Organization (Seoul, Korea)
-  - Epigenome Analysis / NGS Cancer Gene Panel Analysis and Applications / Analyses of Coding and Noncoding Transcriptomes (2017)
-  - Biostatistics using R / Genome Data Analysis using Korea Biobank Array / RNA Genome Analysis (2016)
-  - Cancer Genome Analysis / Genome Epidemiology / Genetic Variation and Disease (2015)
+    - Epigenome Analysis / NGS Cancer Gene Panel Analysis and Applications / Analyses of Coding and Noncoding Transcriptomes (2017)
+    - Biostatistics using R / Genome Data Analysis using Korea Biobank Array / RNA Genome Analysis (2016)
+    - Cancer Genome Analysis / Genome Epidemiology / Genetic Variation and Disease (2015)
 
 - **Maestro Program - Extracurriculum**
   - School of Systems Biomedical Science, Soongsil University (Seoul, Korea)
-  - Real-time PCR (2014)
-  - Computer-aided Drug Discovery (2014)
-  - Expression and Purification of Protein (2013)
-  - Genome-wide Associated Studies (2012)
+    - Real-time PCR (2014)
+    - Computer-aided Drug Discovery (2014)
+    - Expression and Purification of Protein (2013)
+    - Genome-wide Associated Studies (2012)
 
 ### Publication
 
