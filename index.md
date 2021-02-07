@@ -8,9 +8,9 @@ I am a bioinformatician and cancer biologist, who is interested in understanding
 
 I have been studied in South Korea and the United States. Currently I am in Belgium, as a PhD student having a role of bioinformatician and data analyst.
 
-I have various background due to the several in-field experiences, especially population genomics, functional genomics, cancer biology, molecular biology and bioinformatics. These days, I am mainly interested in understanding the mechanism of cancer genomic landscape and connecting it to the cancer treatment. 
+I have various background due to the several in-field experiences, especially during my Bachelor and Master, I was half-bioinformatician and half-molecular biologist. Especially, I have experiences in population genomics, functional genomics, molecular biology, biochemistry, cancer biology and bioinformatics. These days, I am mainly interested in understanding the mechanism of cancer genomic landscape and connecting it to the cancer treatment. 
 
-My ultimate goal of studying bioinformatics and cancer biology is finding the new way to save more people who are fighting with the various types of cancer. In other words, my goal to study is bringing back the happier life for the patients and their family, with science and technology.
+My ultimate goal of studying bioinformatics and cancer biology is finding the new strategy for the cancer treatment by using genetic information. In other words, I would like to contribute to save cancer patients, who are struggling with the various types of cancer. Ultimately, my goal as a scientist is bringing back the happier life for the patients and their family, by applying scientific and technological knowledge.
 
 ## Interest
 
@@ -21,7 +21,7 @@ My ultimate goal of studying bioinformatics and cancer biology is finding the ne
 *   Computer-aided drug design of anti-cancer medicine
 *   Drug development of anti-cancer treatment having less side-effect or resistance
 
-*   Population genomics for the cancers with rare occurrance
+*   Population genomics for the cancers with rare occurrance in the cohort-level
 
 ## Education
 
@@ -201,7 +201,7 @@ My ultimate goal of studying bioinformatics and cancer biology is finding the ne
   
 - **Korean Instructor**
   - International Education Institute, Soongsil University (Seoul, Korea)
-  - Korean instruction for international students, Level 1
+  - Korean instruction for international students, Level 1 to 4
   - Teaching in English and Chinese (Mandarin)
   - December 2012 - February 2015
   
@@ -213,12 +213,12 @@ My ultimate goal of studying bioinformatics and cancer biology is finding the ne
   - Coding and non-coding transcriptome analysis
   - Chromatin analysis by ChIP-seq and ATAC-seq
   - NGS cancer panel analysis
-  - Basic level of single-cell sequencing data analysis
-  - Ingenuity Pathway Analysis
+  - Basic level of single-cell transcriptome data analysis
 
 - **Downstream Analysis**
   - Epigenome analysis
   - Geneset Enrichment Analysis
+  - Ingenuity Pathway Analysis
   - Pathway analysis
   - Gene network definition and regulon analysis
   
@@ -229,9 +229,9 @@ My ultimate goal of studying bioinformatics and cancer biology is finding the ne
 
 - **Further Skills**
   - Basic level of computer aided drug discovery
-  - Pipeline design based on HPC with pbs format
+  - Pipeline design based on HPC
   - Visualization of data
-  - Biological statistics
+  - Statistics for biology and modelling
 
 ### Language
 
