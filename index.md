@@ -77,6 +77,7 @@ My ultimate goal of studying bioinformatics and cancer biology is finding the ne
 ### Trainings
 
 - **Practical training - High-performance computing (HPC) training session**
+  - HIP 101 Porting CUDA codes to HIP (CSC – IT Center for Science, Finland) : February 2021
   - Consortium des Équipements de Calcul Intensif (Louvain-la-Neuve, Belgium) : November 2020
   - ULB-VUB shared ICT services centre (Bruxelles, Belgium) : November 2019
 
