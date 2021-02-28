@@ -54,7 +54,7 @@ My ultimate goal of studying bioinformatics and cancer biology is finding the ne
   - Crowdfight Team
   - April 2020 - Currently
   - Following the request - mainly for Data analysis
-  - Including COVID-19 Platform : April 2020 to October 2020
+  - COVID-19 Platform : April 2020 to October 2020
 
 - **Volunteer Researcher**
   - COVID-19 Diagnosis Platform, Hôpital Erasme (Brussels, Belgium)
