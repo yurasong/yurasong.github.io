@@ -8,7 +8,8 @@ first_name: Yura
 last_name: Song
 contact_note: >
   Email is the best way to reach me. I typically respond within a day.
-description: A bioinformatician based in Belgium, specialised in gene regulatory network prediction.
+description: >
+  A bioinformatician based in Belgium, specialised in gene regulatory network prediction.
 footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
