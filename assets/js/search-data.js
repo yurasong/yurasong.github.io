@@ -42,11 +42,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-private-defence-passed-public-defence-will-be-on-15-april",
+          title: 'Private defence passed! Public defence will be on 15 April.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-phd-defence-successfully-completed",
+          title: 'PhD Defence Successfully Completed',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
