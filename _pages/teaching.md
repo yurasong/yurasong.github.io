@@ -13,3 +13,5 @@ This page collects teaching activities, invited lectures, workshops, and trainin
 Topics include single-cell RNA-seq analysis, gene regulatory network inference, chromatin accessibility analysis, and practical computational workflows using Python and Scanpy.
 
 Materials, notebooks, and external resources are provided when available.
+
+{% include courses.liquid %}
