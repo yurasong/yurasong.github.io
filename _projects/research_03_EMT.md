@@ -18,11 +18,11 @@ Together, these projects reveal how tumour progression is driven not only by gen
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/EMT-Fat1.png" title="Cascade related to EMT upon Fat1KO (Pastushenko et al., *Nature*, 2020)" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/EMT-Fat1.png" title="EMT signalling" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Single-cell and multi-omics analyses uncover how EMT, tumour plasticity, inflammatory signalling, and extracellular matrix remodelling regulate tumour initiation, metastatic progression, and therapy resistance.
+    Cascade related to EMT upon Fat1KO (Pastushenko et al., *Nature*, 2020)
 </div>
 
 ## Selected studies
