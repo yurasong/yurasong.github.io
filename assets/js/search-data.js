@@ -90,11 +90,11 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project.html";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-scientific-community-engagement-and-conference-service",
+          title: 'Scientific community engagement and conference service',
+          description: "Conference organisation, session chairing, and science outreach",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project.html";
+              window.location.href = "/projects/archive_01_EKC.html";
             },},{id: "projects-innate-immunity-controls-prostate-stem-cell-plasticity",
           title: 'Innate immunity controls prostate stem cell plasticity',
           description: "NF-κB-driven basal cell reprogramming during prostate tumor initiation",
