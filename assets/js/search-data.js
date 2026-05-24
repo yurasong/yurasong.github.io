@@ -85,16 +85,16 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project.html";
             },},{id: "projects-scientific-community-engagement-and-conference-service",
           title: 'Scientific community engagement and conference service',
           description: "Conference organisation, session chairing, and science outreach",
           section: "Projects",handler: () => {
               window.location.href = "/projects/archive_01_EKC.html";
+            },},{id: "projects-korean-scientists-and-engineers-association-in-belgium",
+          title: 'Korean Scientists and Engineers Association in Belgium',
+          description: "Academic service, community leadership, and science outreach",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/archive_02_KOSEABE.html";
             },},{id: "projects-innate-immunity-controls-prostate-stem-cell-plasticity",
           title: 'Innate immunity controls prostate stem cell plasticity',
           description: "NF-κB-driven basal cell reprogramming during prostate tumor initiation",
