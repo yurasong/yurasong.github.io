@@ -8,6 +8,8 @@ category: research
 related_publications: false
 ---
 
+The associated publication was selected as a cover manuscript for the September 2025 issue of Nature Cancer.
+
 This project investigates how oncogenic **Pten deletion** reactivates plasticity in prostate basal stem cells and promotes tumor initiation in a region-specific manner.
 
 Using lineage tracing, single-cell RNA-seq, ATAC-seq, organoid assays, and in vivo functional perturbation, we showed that prostate basal cells undergo stepwise reprogramming through **hillock-like** and **hybrid basal–luminal** states before acquiring proximal luminal features. This reprogramming occurs predominantly in the anterior and dorsolateral prostate and is associated with more aggressive tumor initiation.
