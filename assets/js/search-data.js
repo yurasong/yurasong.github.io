@@ -55,31 +55,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project.html";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project.html";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project.html";
             },},{id: "projects-scientific-community-engagement-and-conference-service",
           title: 'Scientific community engagement and conference service',
           description: "Conference organisation, session chairing, and science outreach",
@@ -100,6 +75,11 @@ ninja.data = [{
           description: "Mechanical regulation of epithelial stem cell plasticity, tissue remodelling, and regenerative cell-state transitions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/research_02_Epithelial-plasticity.html";
+            },},{id: "projects-cancer-plasticity-emt-and-tumour-progression",
+          title: 'Cancer plasticity, EMT and tumour progression',
+          description: "Single-cell and multi-omics dissection of EMT, tumour plasticity, metastatic progression, and therapy resistance",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/research_03_EMT.html";
             },},{id: "teachings-introductory-ngs-course",
           title: 'Introductory NGS Course',
           description: "Introductory course on NGS data analysis, including Galaxy, RNA-seq and ATAC-seq.",
