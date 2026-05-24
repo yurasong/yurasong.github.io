@@ -4,7 +4,7 @@ title: Innate immunity controls prostate stem cell plasticity
 description: NF-κB-driven basal cell reprogramming during prostate tumor initiation
 img: assets/img/03_04_Nature_Cancer_Cover.jpg
 importance: 1
-category: Research
+category: research
 related_publications: true
 ---
 
