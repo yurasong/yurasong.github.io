@@ -2,7 +2,7 @@
 layout: page
 title: Epithelial plasticity, regeneration, and tissue dynamics
 description: Mechanical regulation of epithelial stem cell plasticity, tissue remodelling, and regenerative cell-state transitions
-# img: assets/img/stretch_skin_cover.jpg
+img: assets/img/cover_alessia.png
 importance: 2
 category: research
 related_publications: false
@@ -18,7 +18,7 @@ Together, these projects reveal how epithelial tissues dynamically transition be
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/stretch_skin_cover.jpg" title="Epithelial plasticity and regeneration" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cover_alessia.png" title="Epithelial plasticity and regeneration" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
