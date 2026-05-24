@@ -5,7 +5,7 @@ permalink: /projects/
 description: Research projects, scientific collaborations, and community initiatives.
 nav: true
 nav_order: 3
-display_categories: [research, community, archive]
+display_categories: [research, community, design, archive]
 horizontal: false
 ---
 
