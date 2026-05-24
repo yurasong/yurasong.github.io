@@ -80,11 +80,6 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project.html";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project.html";
             },},{id: "projects-scientific-community-engagement-and-conference-service",
           title: 'Scientific community engagement and conference service',
           description: "Conference organisation, session chairing, and science outreach",
@@ -100,6 +95,11 @@ ninja.data = [{
           description: "NF-κB-driven basal cell reprogramming during prostate tumor initiation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/research_01_NatCan_2025.html";
+            },},{id: "projects-epithelial-plasticity-regeneration-and-tissue-dynamics",
+          title: 'Epithelial plasticity, regeneration, and tissue dynamics',
+          description: "Mechanical regulation of epithelial stem cell plasticity, tissue remodelling, and regenerative cell-state transitions",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/research_02_Epithelial-plasticity.html";
             },},{id: "teachings-introductory-ngs-course",
           title: 'Introductory NGS Course',
           description: "Introductory course on NGS data analysis, including Galaxy, RNA-seq and ATAC-seq.",
