@@ -65,6 +65,16 @@ ninja.data = [{
           description: "Academic service, community leadership, and science outreach",
           section: "Projects",handler: () => {
               window.location.href = "/projects/archive_02_KOSEABE.html";
+            },},{id: "projects-scientific-seminars-and-community-outreach",
+          title: 'Scientific seminars and community outreach',
+          description: "Science communication, academic event organisation and visual design for scientific communities in Belgium",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/design_01_poster_for_event.html";
+            },},{id: "projects-conference-posters-and-scientific-presentations",
+          title: 'Conference posters and scientific presentations',
+          description: "Selected conference posters, scientific visualisation and presentation design in cancer biology, epithelial plasticity, and single-cell genomics",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/design_02_poster_for_conference.html";
             },},{id: "projects-innate-immunity-controls-prostate-stem-cell-plasticity",
           title: 'Innate immunity controls prostate stem cell plasticity',
           description: "NF-κB-driven basal cell reprogramming during prostate tumor initiation",
