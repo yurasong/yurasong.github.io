@@ -100,16 +100,21 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+            },},{id: "teachings-introductory-ngs-course",
+          title: 'Introductory NGS Course',
+          description: "Introductory course on NGS data analysis, including Galaxy, RNA-seq and ATAC-seq.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals.html";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+              window.location.href = "/teachings/2020JUN_Introductory-NGS.html";
+            },},{id: "teachings-lecture-series-iv",
+          title: 'Lecture Series IV',
+          description: "Invited lecture at the College of Medicine, Korea University.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning.html";
+              window.location.href = "/teachings/2025OCT_Lecture_Series_IV.html";
+            },},{id: "teachings-analysis-of-single-cell-rna-seq-data-with-python",
+          title: 'Analysis of Single-Cell RNA-seq Data with Python',
+          description: "Hands-on workshop series on single-cell RNA-seq analysis using Python and Scanpy.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/2026MAR_scRNAseq_basic.html";
             },},{
         id: 'social-cv',
         title: 'CV',
