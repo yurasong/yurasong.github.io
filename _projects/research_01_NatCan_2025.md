@@ -5,7 +5,7 @@ description: NF-κB-driven basal cell reprogramming during prostate tumor initia
 img: assets/img/03_04_Nature_Cancer_Cover.jpg
 importance: 1
 category: research
-related_publications: true
+related_publications: false
 ---
 
 This project investigates how oncogenic **Pten deletion** reactivates plasticity in prostate basal stem cells and promotes tumor initiation in a region-specific manner.
