@@ -80,6 +80,16 @@ ninja.data = [{
           description: "Single-cell and multi-omics dissection of EMT, tumour plasticity, metastatic progression, and therapy resistance",
           section: "Projects",handler: () => {
               window.location.href = "/projects/research_03_EMT.html";
+            },},{id: "projects-mammary-gland-lineage-identity-and-multi-omics-landscapes",
+          title: 'Mammary gland lineage identity and multi-omics landscapes',
+          description: "Transcriptional, chromatin, and cell–cell communication dynamics across mammary gland development",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/research_04_Heliyon.html";
+            },},{id: "projects-translational-cancer-genomics-and-bioinformatics",
+          title: 'Translational cancer genomics and bioinformatics',
+          description: "Computational oncology, liquid biopsy analysis, NGS benchmarking, and epigenetic mechanisms of drug resistance",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/research_05_NCC-era.html";
             },},{id: "teachings-introductory-ngs-course",
           title: 'Introductory NGS Course',
           description: "Introductory course on NGS data analysis, including Galaxy, RNA-seq and ATAC-seq.",
