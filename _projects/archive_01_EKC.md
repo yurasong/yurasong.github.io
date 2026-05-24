@@ -3,11 +3,13 @@ layout: page
 title: Scientific community engagement and conference service
 description: Conference organisation, session chairing, and science outreach
 # img: assets/img/6.jpg
-importance: 2
+importance: 1
 category: archive
 ---
 
-This archive summarises my involvement in the Europe-Korea Conference on Science and Technology (EKC) as a committee member.
+This archive summarises my involvement in the Europe-Korea Conference on Science and Technology (EKC) as a committee members.
+
+## Conference and community service
 
 ### Impact, Innovation and Connectivity for Transforming Tomorrow Together  
 **August 2025**  
