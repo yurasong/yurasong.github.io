@@ -55,11 +55,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3.html";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
@@ -100,6 +95,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
+            },},{id: "projects-innate-immunity-controls-prostate-stem-cell-plasticity",
+          title: 'Innate immunity controls prostate stem cell plasticity',
+          description: "NF-κB-driven basal cell reprogramming during prostate tumor initiation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/research_01_NatCan_2025.html";
             },},{id: "teachings-introductory-ngs-course",
           title: 'Introductory NGS Course',
           description: "Introductory course on NGS data analysis, including Galaxy, RNA-seq and ATAC-seq.",
