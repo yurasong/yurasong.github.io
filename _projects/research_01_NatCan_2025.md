@@ -25,6 +25,13 @@ These findings reveal a direct link between epithelial cell-of-origin, regional 
     Innate immunity and NF-κB signaling drive prostate basal stem cell plasticity, lineage reprogramming, and tumor initiation.
 </div>
 
+## Publication
+
+**Jiang C\*, Song Y\*, et al.**  
+*Innate immunity and the NF-κB pathway control prostate stem cell plasticity, reprogramming and tumor initiation.*  
+**Nature Cancer** (2025).  
+[Read the paper](https://www.nature.com/articles/s43018-025-00994-3)
+
 ## Highlights
 
 - **Basal cells**, but not luminal cells, show strong oncogene-induced plasticity after Pten deletion.
@@ -36,4 +43,4 @@ These findings reveal a direct link between epithelial cell-of-origin, regional 
 
 ## My contribution
 
-I contributed to the computational analysis of chromatin landscape, bulk and single-cell transcriptomic datasets, including the characterization of epithelial cell states, reprogramming trajectories and regulatory programs associated with prostate tumor initiation.
+I contributed to the computational analysis of chromatin lanscatpe, bulk and single-cell transcriptomic datasets, including the characterization of epithelial cell states, reprogramming trajectories and regulatory programs associated with prostate tumor initiation.
