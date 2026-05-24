@@ -36,7 +36,7 @@ Using lineage tracing, quantitative modelling, single-cell RNA sequencing, and c
 ---
 
 ### Dynamic regulation of tissue fluidity controls skin repair during wound healing
-**Cell (2024)**
+**Cell (2024)**  
 [Read the paper](https://www.cell.com/cell/fulltext/S0092-8674(24)00825-0)
 
 This work uncovered how epithelial tissues dynamically transition between solid-like and fluid-like states during wound repair. Combining intravital imaging, lineage tracing, single-cell transcriptomics, and epigenetic profiling, the study identified a regenerative programme controlled by the EGFR/AP1 axis that promotes stem cell activation and tissue remodelling during re-epithelialisation.
@@ -44,7 +44,7 @@ This work uncovered how epithelial tissues dynamically transition between solid-
 ---
 
 ### Collagen signaling and matrix stiffness regulate multipotency in glandular epithelial stem cells in mice  
-**Nature Communications (2024)**
+**Nature Communications (2024)**  
 [Read the paper](https://www.nature.com/articles/s41467-024-54843-5)
 
 This study demonstrated that extracellular matrix stiffness and Collagen I signalling regulate the reactivation of multipotency in adult glandular basal stem cells. Using organoid systems and single-cell RNA sequencing, the work identified activation of the β1 integrin/FAK/AP-1 axis as a key regulator of mechanically induced lineage plasticity in mammary gland and prostate epithelia.
@@ -52,7 +52,7 @@ This study demonstrated that extracellular matrix stiffness and Collagen I signa
 ---
 
 ### Survivin Promotes Stem Cell Competence for Skin Cancer Initiation  
-**Cancer Discovery (2025)**
+**Cancer Discovery (2025)**  
 [Read the paper](https://aacrjournals.org/cancerdiscovery/article-abstract/15/2/427/751341/Survivin-Promotes-Stem-Cell-Competence-for-Skin?redirectedFrom=fulltext)
 
 This study identified Survivin as a key regulator controlling the competence of epidermal stem cells to initiate basal cell carcinoma. Using transcriptional profiling and genetic mouse models, the work demonstrated how Survivin promotes stem cell survival, self-renewal, and resistance to differentiation, thereby enabling oncogene-expressing stem cells to initiate tumour formation.
