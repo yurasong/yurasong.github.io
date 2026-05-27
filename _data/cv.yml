@@ -40,7 +40,8 @@ cv:
         start_date: 2016-03
         end_date: 2018-02
         highlights:
-          - "Analysis of inconsistent mutation calls for cell lines in next-generation sequencing databases"
+          - "Thesis: Analysis of inconsistent mutation calls for cell lines in next-generation sequencing databases"
+          - Joint program with the National Cancer Center, South Korea
 
       - institution: Soongsil University
         location: Seoul, South Korea
@@ -49,6 +50,7 @@ cv:
         start_date: 2012-03
         end_date: 2015-08
         highlights:
+          - "Bachelor thesis: Identification of functional nucleotide and haplotype variants in the promoter of FGB gene (Supervisor: Prof. Chaeyoung Lee)"
           - "Double concentration in Bioengineering and Bioinformatics"
           - "Early graduation with academic excellence"
 
