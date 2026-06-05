@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-06-05'
 papers:
   XzRSQFYAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Dynamic regulation of tissue fluidity controls skin repair during wound
     year: Unknown Year
   XzRSQFYAAAAJ:2osOgNQ5qMEC:
-    citations: 227
+    citations: 229
     title: Mechanisms of stretch-mediated skin expansion at single-cell resolution
     year: '2020'
   XzRSQFYAAAAJ:9yKSN-GCB0IC:
-    citations: 66
+    citations: 67
     title: Epidermal autonomous VEGFA/Flt1/Nrp1 functions mediate psoriasis-like disease
     year: '2020'
   XzRSQFYAAAAJ:IjCSPb-OGe4C:
@@ -18,7 +18,7 @@ papers:
     title: Fat1 deletion promotes hybrid EMT state, tumour stemness and metastasis
     year: '2021'
   XzRSQFYAAAAJ:LkGwnXOMwfcC:
-    citations: 90
+    citations: 92
     title: Dynamic regulation of tissue fluidity controls skin repair during wound healing
     year: '2024'
   XzRSQFYAAAAJ:Se3iqnhoufwC:
@@ -42,11 +42,11 @@ papers:
     title: Tumor Initiation
     year: '2023'
   XzRSQFYAAAAJ:Y0pCki6q_DkC:
-    citations: 218
+    citations: 221
     title: RHOJ controls EMT-associated resistance to chemotherapy
     year: '2023'
   XzRSQFYAAAAJ:YsMSGLbcyi4C:
-    citations: 148
+    citations: 150
     title: Pharmacological targeting of netrin-1 inhibits EMT in cancer
     year: '2023'
   XzRSQFYAAAAJ:_FxGoFyzp5QC:
@@ -54,11 +54,11 @@ papers:
     title: Survivin promotes stem cell competence for skin cancer initiation
     year: '2025'
   XzRSQFYAAAAJ:d1gkVwhDpl0C:
-    citations: 79
+    citations: 80
     title: Monitoring circulating tumor DNA by analyzing personalized cancer-specific rearrangements to detect recurrence in gastric cancer
     year: '2019'
   XzRSQFYAAAAJ:eQOLeE2rZwMC:
-    citations: 95
+    citations: 97
     title: The extracellular matrix dictates regional competence for tumour initiation
     year: '2023'
   XzRSQFYAAAAJ:hqOjcs7Dif8C:
@@ -74,7 +74,7 @@ papers:
     title: "Innate immunity and the NF-\u03BAB pathway control prostate stem cell plasticity, reprogramming and tumor initiation"
     year: '2025'
   XzRSQFYAAAAJ:u-x6o8ySG0sC:
-    citations: 27
+    citations: 28
     title: False-negative errors in next-generation sequencing contribute substantially to inconsistency of mutation databases
     year: '2019'
   XzRSQFYAAAAJ:u5HHmVD_uO8C:
@@ -82,10 +82,10 @@ papers:
     title: Clinical implications of proliferation activity in T1 or T2 male gastric cancer patients
     year: '2015'
   XzRSQFYAAAAJ:ufrVoPGSRksC:
-    citations: 23
+    citations: 25
     title: Collagen signaling and matrix stiffness regulate multipotency in glandular epithelial stem cells in mice
     year: '2024'
   XzRSQFYAAAAJ:zYLM7Y9cAGgC:
-    citations: 42
+    citations: 44
     title: NR2F2 controls malignant squamous cell carcinoma state by promoting stemness and invasion and repressing differentiation
     year: '2021'
