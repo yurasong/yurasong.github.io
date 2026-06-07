@@ -184,11 +184,12 @@ cv:
 
     Volunteer:
       - company: RSG Belgium
-        position: ULB Representative
+        position: Vice President
         location: Belgium
-        start_date: 2025-09
+        start_date: 2026-06
         end_date: Present
         highlights:
+          - ULB Representative from 2025 September to 2026 May
           - "Co-host of Beerformatics Brussels edition"
           - "BioHackathon jury member"
 
