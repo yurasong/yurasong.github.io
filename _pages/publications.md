@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications by categories in reversed chronological order. 
+description: Publications by category in reverse chronological order. An asterisk (*) indicates co-first authorship.
 nav: true
 nav_order: 2
 ---
