@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-12'
 papers:
   XzRSQFYAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -10,15 +10,15 @@ papers:
     title: Mechanisms of stretch-mediated skin expansion at single-cell resolution
     year: '2020'
   XzRSQFYAAAAJ:9yKSN-GCB0IC:
-    citations: 67
+    citations: 68
     title: Epidermal autonomous VEGFA/Flt1/Nrp1 functions mediate psoriasis-like disease
     year: '2020'
   XzRSQFYAAAAJ:IjCSPb-OGe4C:
-    citations: 445
+    citations: 446
     title: Fat1 deletion promotes hybrid EMT state, tumour stemness and metastasis
     year: '2021'
   XzRSQFYAAAAJ:LkGwnXOMwfcC:
-    citations: 92
+    citations: 94
     title: Dynamic regulation of tissue fluidity controls skin repair during wound healing
     year: '2024'
   XzRSQFYAAAAJ:Se3iqnhoufwC:
@@ -58,7 +58,7 @@ papers:
     title: Monitoring circulating tumor DNA by analyzing personalized cancer-specific rearrangements to detect recurrence in gastric cancer
     year: '2019'
   XzRSQFYAAAAJ:eQOLeE2rZwMC:
-    citations: 97
+    citations: 98
     title: The extracellular matrix dictates regional competence for tumour initiation
     year: '2023'
   XzRSQFYAAAAJ:hqOjcs7Dif8C:
@@ -82,10 +82,10 @@ papers:
     title: Clinical implications of proliferation activity in T1 or T2 male gastric cancer patients
     year: '2015'
   XzRSQFYAAAAJ:ufrVoPGSRksC:
-    citations: 25
+    citations: 26
     title: Collagen signaling and matrix stiffness regulate multipotency in glandular epithelial stem cells in mice
     year: '2024'
   XzRSQFYAAAAJ:zYLM7Y9cAGgC:
-    citations: 44
+    citations: 45
     title: NR2F2 controls malignant squamous cell carcinoma state by promoting stemness and invasion and repressing differentiation
     year: '2021'
