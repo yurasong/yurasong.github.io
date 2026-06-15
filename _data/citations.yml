@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-15'
 papers:
   XzRSQFYAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Epidermal autonomous VEGFA/Flt1/Nrp1 functions mediate psoriasis-like disease
     year: '2020'
   XzRSQFYAAAAJ:IjCSPb-OGe4C:
-    citations: 446
+    citations: 447
     title: Fat1 deletion promotes hybrid EMT state, tumour stemness and metastasis
     year: '2021'
   XzRSQFYAAAAJ:LkGwnXOMwfcC:
@@ -86,6 +86,6 @@ papers:
     title: Collagen signaling and matrix stiffness regulate multipotency in glandular epithelial stem cells in mice
     year: '2024'
   XzRSQFYAAAAJ:zYLM7Y9cAGgC:
-    citations: 45
+    citations: 46
     title: NR2F2 controls malignant squamous cell carcinoma state by promoting stemness and invasion and repressing differentiation
     year: '2021'
