@@ -62,6 +62,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3.html";
+            },},{id: "news-awarded-fnrs-chargé-de-recherches-fellowship",
+          title: 'Awarded FNRS Chargé de recherches Fellowship',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4.html";
             },},{id: "projects-scientific-community-engagement-and-conference-service",
           title: 'Scientific community engagement and conference service',
           description: "Conference organisation, session chairing, and science outreach",
