@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Awarded FNRS Chargé de recherches Fellowship
-date: 2026-06-23 19:10:00+0100
+date: 2026-06-23 10:00:00+0100
 inline: false
 related_posts: false
 ---
