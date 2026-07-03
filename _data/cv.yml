@@ -25,7 +25,7 @@ cv:
     Education:
       - institution: Université Libre de Bruxelles
         location: Brussels, Belgium
-        area: Faculty of Medicine
+        area: Medical and Pharmaceutical Science (Medicine), Faculty of Medicine
         studyType: PhD
         start_date: 2018-03
         end_date: 2026-04
@@ -64,6 +64,8 @@ cv:
           Integrative analysis of single-cell, spatial transcriptomic, and multi-omic datasets
           to study epithelial plasticity, tumour heterogeneity, and cell competition.
 
+          From October 2026 to September 2029, I will be a research fellow contracted with Fonds de la Recherche Scientifique (F.R.S.-FNRS).
+
         highlights:
           - "Single-cell and spatial transcriptomics"
           - "Gene regulatory network inference"
@@ -95,42 +97,42 @@ cv:
     Publications:
       - title: Innate immunity and the NF-κB pathway control prostate stem cell plasticity, reprogramming and tumor initiation
         publisher: Nature Cancer
-        releaseDate: 23 June 2025
+        releaseDate: June 2025
         url: https://www.nature.com/articles/s43018-025-00994-3
         summary: Cover article on prostate stem-cell plasticity and tumour initiation.
 
       - title: Collagen signaling and matrix stiffness regulate multipotency in glandular epithelial stem cells in mice
         publisher: Nature Communications
-        releaseDate: 18 December 2024
+        releaseDate: December 2024
         url: https://www.nature.com/articles/s41467-024-54843-5
 
       - title: Dynamic regulation of tissue fluidity controls skin repair during wound healing
         publisher: Cell
-        releaseDate: 19 September 2024
+        releaseDate: September 2024
         url: https://www.cell.com/cell/fulltext/S0092-8674(24)00825-0
 
       - title: Cell type and stage specific transcriptional, chromatin and cell-cell communication landscapes in the mammary gland
         publisher: Heliyon
-        releaseDate: 1 July 2023
+        releaseDate: July 2023
         url: https://www.cell.com/heliyon/fulltext/S2468-1734(23)00001-2
 
       - title: Fat1 deletion promotes hybrid EMT state, tumour stemness and metastasis
         publisher: Nature
-        releaseDate: 16 December 2020
+        releaseDate: December 2020
         url: https://www.nature.com/articles/s41586-020-03046-1
 
     Skills:
       - name: Single-cell & Spatial Omics
         level: Advanced
         keywords: >
-          scRNA-seq, scATAC-seq, Multiome, Xenium,
-          Spatial Transcriptomics, Trajectory Inference
+          scRNA-seq, scATAC-seq, Multiome, Probe-based Spatial Transcriptomics, 
+          
 
       - name: Computational Biology
         level: Advanced
         keywords: >
-          Gene Regulatory Networks, SCENIC+, Cell-cell Communication,
-          Differential Expression, Pathway Analysis
+          Gene Regulatory Networks (SCENIC, SCENIC+), Cell-cell Communication,
+          Differential Expression, Pathway Analysis, Trajectory Inference
 
       - name: Programming
         level: Advanced
@@ -181,17 +183,6 @@ cv:
         keywords: >
           Science outreach, conference organisation,
           interdisciplinary collaboration
-
-    Volunteer:
-      - company: RSG Belgium
-        position: Vice President
-        location: Belgium
-        start_date: 2026-06
-        end_date: Present
-        highlights:
-          - ULB Representative from 2025 September to 2026 May
-          - "Co-host of Beerformatics Brussels edition"
-          - "BioHackathon jury member"
 
     Certificates:
       - name: DELF B1
