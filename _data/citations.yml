@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-03'
 papers:
   XzRSQFYAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Epidermal autonomous VEGFA/Flt1/Nrp1 functions mediate psoriasis-like disease
     year: '2020'
   XzRSQFYAAAAJ:IjCSPb-OGe4C:
-    citations: 452
+    citations: 453
     title: Fat1 deletion promotes hybrid EMT state, tumour stemness and metastasis
     year: '2021'
   XzRSQFYAAAAJ:LkGwnXOMwfcC:
@@ -46,7 +46,7 @@ papers:
     title: RHOJ controls EMT-associated resistance to chemotherapy
     year: '2023'
   XzRSQFYAAAAJ:YsMSGLbcyi4C:
-    citations: 154
+    citations: 155
     title: Pharmacological targeting of netrin-1 inhibits EMT in cancer
     year: '2023'
   XzRSQFYAAAAJ:_FxGoFyzp5QC:
@@ -58,7 +58,7 @@ papers:
     title: Monitoring circulating tumor DNA by analyzing personalized cancer-specific rearrangements to detect recurrence in gastric cancer
     year: '2019'
   XzRSQFYAAAAJ:eQOLeE2rZwMC:
-    citations: 100
+    citations: 101
     title: The extracellular matrix dictates regional competence for tumour initiation
     year: '2023'
   XzRSQFYAAAAJ:hqOjcs7Dif8C:
