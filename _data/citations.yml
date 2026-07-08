@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-08'
 papers:
   XzRSQFYAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Dynamic regulation of tissue fluidity controls skin repair during wound
     year: Unknown Year
   XzRSQFYAAAAJ:2osOgNQ5qMEC:
-    citations: 230
+    citations: 231
     title: Mechanisms of stretch-mediated skin expansion at single-cell resolution
     year: '2020'
   XzRSQFYAAAAJ:9yKSN-GCB0IC:
@@ -26,7 +26,7 @@ papers:
     title: 'Author Correction: Mechanisms of stretch-mediated skin expansion at single-cell resolution'
     year: '2025'
   XzRSQFYAAAAJ:UeHWp8X0CEIC:
-    citations: 150
+    citations: 152
     title: "Heterotypic cell\u2013cell communication regulates glandular stem cell multipotency"
     year: '2020'
   XzRSQFYAAAAJ:UebtZRa9Y70C:
@@ -42,11 +42,11 @@ papers:
     title: Tumor Initiation
     year: '2023'
   XzRSQFYAAAAJ:Y0pCki6q_DkC:
-    citations: 222
+    citations: 223
     title: RHOJ controls EMT-associated resistance to chemotherapy
     year: '2023'
   XzRSQFYAAAAJ:YsMSGLbcyi4C:
-    citations: 155
+    citations: 156
     title: Pharmacological targeting of netrin-1 inhibits EMT in cancer
     year: '2023'
   XzRSQFYAAAAJ:_FxGoFyzp5QC:
@@ -78,7 +78,7 @@ papers:
     title: False-negative errors in next-generation sequencing contribute substantially to inconsistency of mutation databases
     year: '2019'
   XzRSQFYAAAAJ:u5HHmVD_uO8C:
-    citations: 10
+    citations: 11
     title: Clinical implications of proliferation activity in T1 or T2 male gastric cancer patients
     year: '2015'
   XzRSQFYAAAAJ:ufrVoPGSRksC:
