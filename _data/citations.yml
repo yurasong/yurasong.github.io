@@ -1,10 +1,6 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-15'
 papers:
-  XzRSQFYAAAAJ:0EnyYjriUFMC:
-    citations: 0
-    title: Dynamic regulation of tissue fluidity controls skin repair during wound
-    year: Unknown Year
   XzRSQFYAAAAJ:2osOgNQ5qMEC:
     citations: 231
     title: Mechanisms of stretch-mediated skin expansion at single-cell resolution
@@ -14,11 +10,11 @@ papers:
     title: Epidermal autonomous VEGFA/Flt1/Nrp1 functions mediate psoriasis-like disease
     year: '2020'
   XzRSQFYAAAAJ:IjCSPb-OGe4C:
-    citations: 453
+    citations: 454
     title: Fat1 deletion promotes hybrid EMT state, tumour stemness and metastasis
     year: '2021'
   XzRSQFYAAAAJ:LkGwnXOMwfcC:
-    citations: 97
+    citations: 100
     title: Dynamic regulation of tissue fluidity controls skin repair during wound healing
     year: '2024'
   XzRSQFYAAAAJ:Se3iqnhoufwC:
@@ -46,7 +42,7 @@ papers:
     title: RHOJ controls EMT-associated resistance to chemotherapy
     year: '2023'
   XzRSQFYAAAAJ:YsMSGLbcyi4C:
-    citations: 156
+    citations: 157
     title: Pharmacological targeting of netrin-1 inhibits EMT in cancer
     year: '2023'
   XzRSQFYAAAAJ:_FxGoFyzp5QC:
