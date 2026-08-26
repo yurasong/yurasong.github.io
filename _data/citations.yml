@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-26'
 papers:
   XzRSQFYAAAAJ:2osOgNQ5qMEC:
-    citations: 234
+    citations: 236
     title: Mechanisms of stretch-mediated skin expansion at single-cell resolution
     year: '2020'
   XzRSQFYAAAAJ:5nxA0vEk-isC:
@@ -14,11 +14,11 @@ papers:
     title: Epidermal autonomous VEGFA/Flt1/Nrp1 functions mediate psoriasis-like disease
     year: '2020'
   XzRSQFYAAAAJ:IjCSPb-OGe4C:
-    citations: 459
+    citations: 463
     title: Fat1 deletion promotes hybrid EMT state, tumour stemness and metastasis
     year: '2021'
   XzRSQFYAAAAJ:LkGwnXOMwfcC:
-    citations: 108
+    citations: 109
     title: Dynamic regulation of tissue fluidity controls skin repair during wound healing
     year: '2024'
   XzRSQFYAAAAJ:Se3iqnhoufwC:
@@ -42,11 +42,11 @@ papers:
     title: Tumor Initiation
     year: '2023'
   XzRSQFYAAAAJ:Y0pCki6q_DkC:
-    citations: 236
+    citations: 237
     title: RHOJ controls EMT-associated resistance to chemotherapy
     year: '2023'
   XzRSQFYAAAAJ:YsMSGLbcyi4C:
-    citations: 160
+    citations: 161
     title: Pharmacological targeting of netrin-1 inhibits EMT in cancer
     year: '2023'
   XzRSQFYAAAAJ:_FxGoFyzp5QC:
@@ -70,7 +70,7 @@ papers:
     title: Cancer cells undergoing epigenetic transition show short-term resistance and are transformed into cells with medium-term resistance by drug treatment
     year: '2020'
   XzRSQFYAAAAJ:roLk4NBRz8UC:
-    citations: 15
+    citations: 16
     title: "Innate immunity and the NF-\u03BAB pathway control prostate stem cell plasticity, reprogramming and tumor initiation"
     year: '2025'
   XzRSQFYAAAAJ:u-x6o8ySG0sC:
@@ -86,6 +86,6 @@ papers:
     title: Collagen signaling and matrix stiffness regulate multipotency in glandular epithelial stem cells in mice
     year: '2024'
   XzRSQFYAAAAJ:zYLM7Y9cAGgC:
-    citations: 48
+    citations: 49
     title: NR2F2 controls malignant squamous cell carcinoma state by promoting stemness and invasion and repressing differentiation
     year: '2021'
