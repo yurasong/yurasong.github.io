@@ -67,6 +67,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4.html";
+            },},{id: "news-several-visits-planned",
+          title: 'Several visits planned',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5.html";
             },},{id: "projects-scientific-community-engagement-and-conference-service",
           title: 'Scientific community engagement and conference service',
           description: "Conference organisation, session chairing, and science outreach",
