@@ -32,6 +32,8 @@ cv:
         highlights:
           - "Laboratory of Stem Cells and Cancer (Prof. Cédric Blanpain)"
           - "Thesis: Deciphering gene regulatory networks and cell states induced by mechanical stress and oncogenes in glandular epithelia"
+          - This PhD position was funded by Télévie, the Fonds de la Recherche Scientifique (F.R.S.-FNRS).
+          - This doctorate equals grade 8 of the European framework of certification and the French speaking qualifications framework.
 
       - institution: Ewha Womans University
         location: Seoul, South Korea
@@ -55,23 +57,37 @@ cv:
           - "Early graduation with academic excellence"
 
     Experience:
-      - company: Université Libre de Bruxelles
+      - company: Laboratory of Stem Cells and Cancer, Université Libre de Bruxelles
+        position: Chargée de recherche (Research Fellow)
+        location: Brussels, Belgium
+        start_date: 2026-10
+        end_date: 2029-09
+        summary: >
+          Integrative analysis of single-cell, spatial transcriptomic, and multi-omic datasets
+          to study cell competition and development of methodology.
+
+          This position is funded by Fonds de la Recherche Scientifique (F.R.S.-FNRS).
+
+        highlights:
+          - "Single-cell and spatial transcriptomics"
+          - "Gene regulatory network inference"
+          - "Cancer initiation and epithelial plasticity"
+      
+      - company: Laboratory of Stem Cells and Cancer, Université Libre de Bruxelles
         position: Postdoctoral Researcher
         location: Brussels, Belgium
         start_date: 2026-04
-        end_date: Present
+        end_date: 2026-09
         summary: >
           Integrative analysis of single-cell, spatial transcriptomic, and multi-omic datasets
           to study epithelial plasticity, tumour heterogeneity, and cell competition.
-
-          From October 2026 to September 2029, I will be a research fellow contracted with Fonds de la Recherche Scientifique (F.R.S.-FNRS).
 
         highlights:
           - "Single-cell and spatial transcriptomics"
           - "Gene regulatory network inference"
           - "Cancer initiation and epithelial plasticity"
 
-      - company: Université Libre de Bruxelles
+      - company: Laboratory of Stem Cells and Cancer, Université Libre de Bruxelles
         position: Bioinformatician
         location: Brussels, Belgium
         start_date: 2023-03
@@ -125,25 +141,29 @@ cv:
       - name: Single-cell & Spatial Omics
         level: Advanced
         keywords: >
-          scRNA-seq, scATAC-seq, Multiome, Probe-based Spatial Transcriptomics, 
+          scRNA-seq, scATAC-seq, Multiomic datasets
+          Probe-based Spatial Transcriptomics, 
+          CRISPR screening NGS sequencing
           
-
       - name: Computational Biology
         level: Advanced
         keywords: >
-          Gene Regulatory Networks (SCENIC, SCENIC+), Cell-cell Communication,
-          Differential Expression, Pathway Analysis, Trajectory Inference
+          Single-cell Multi-omics Data Integration (Seurat, Signac, MOFA+),
+          Gene Regulatory Networks (SCENIC, SCENIC+), Cell-cell Communication prediction (CellChat, CellPhoneDB),
+          Pseudotime and Trajectory Inference (Monocle, Slingshot, PAGA), RNA Velocity (scVelo, velocyto), 
+          Differential Expression, Pathway Analysis
+
+      - name: Next-generation Sequencing (NGS) Data Analysis
+        level: Advanced
+        keywords: >
+          Prediction of functional variants, NGS data processing pipelines,
+          Variant calling, Differential expression analysis, Pathway analysis,
+          Genome-wide association studies (GWAS)
 
       - name: Programming
         level: Advanced
         keywords: >
           Python, R, Shell, Perl, HPC Pipelines
-
-      - name: Bioinformatics
-        level: Advanced
-        keywords: >
-          NGS Processing, ATAC-seq, ChIP-seq,
-          Transcriptomics, Cancer Genomics
 
     Languages:
       - name: Korean
