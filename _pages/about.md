@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Bioinformatician, Laboratory of Stem Cells and Cancer, Université Libre de Bruxelles
+subtitle: F.R.S.–FNRS postdoctoral researcher, Laboratory of Stem Cells and Cancer, Université Libre de Bruxelles
 
 profile:
   align: right
@@ -20,8 +20,10 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a bioinformatician and postdoctoral researcher at the Laboratory of Stem Cells and Cancer, Université Libre de Bruxelles (Prof. Cédric Blanpain). My current research focuses on understanding how epithelial cell identity, plasticity and tissue organisation are regulated during development, homeostasis, regeneration and tumour initiation. I use integrative computational approaches combining bulk and single-cell transcriptomics, chromatin accessibility profiling, spatial transcriptomics, gene regulatory network inference, cell–cell communication analysis and biostatistics. 
+I am an F.R.S.–FNRS postdoctoral researcher and bioinformatician at the Laboratory of Stem Cells and Cancer, Université Libre de Bruxelles (ULB), led by Prof. Cédric Blanpain. My research focuses on understanding how epithelial cell identity, plasticity and tissue organisation are regulated during homeostasis, regeneration and tumour initiation. I use integrative computational approaches combining bulk and single-cell transcriptomics, chromatin accessibility profiling, spatial transcriptomics, gene regulatory network inference, cell–cell communication analysis and biostatistics to investigate the molecular mechanisms underlying these processes.
 
-During my doctoral training, my work has mainly focused on epithelial plasticity in glandular epithelia and skin, with a particular interest in how mechanical, oncogenic, inflammatory and microenvironmental cues changes cell states and promote cancer initiation. Before joining ULB, I trained in both molecular biology and bioinformatics at the National Cancer Center in South Korea, where I worked on cancer genomics, NGS data quality control and translational sequencing projects. This combined wet-lab and computational background allows me to interpret omics datasets from both technical and biological perspectives. 
+I obtained my PhD from ULB in April 2026, investigating how mechanical stress and oncogenic alterations influence epithelial cell states and gene regulatory networks in glandular tissues. Building on this work, my current F.R.S.–FNRS-funded research investigates the molecular and spatial regulation of cell competition during the early stages of cutaneous squamous cell carcinoma initiation, with particular emphasis on interactions between oncogenically altered cells and their surrounding tissue microenvironment. My broader research interests also include the roles of inflammatory signalling, epigenetic regulation and cellular heterogeneity in epithelial biology and cancer.
 
-Beyond research, I have professional experience as a certified Korean–English translator, specialised in medical and biological documents. I have been based in Belgium since March 2018, after previous academic training in South Korea and the United States.
+Before joining ULB, I trained in molecular biology, biochemistry and bioinformatics in South Korea, including research experience at the National Cancer Center, where I worked on cancer genomics and translational genomics projects. My combined experimental and computational background allows me to approach complex biological questions from both technical and mechanistic perspectives.
+
+Beyond academic research, I am also a certified Korean–English translator specialising in medical and biological documents. Originally from South Korea, I have been based in Belgium since March 2018, following earlier academic training in South Korea and the United States.
