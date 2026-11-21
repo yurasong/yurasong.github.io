@@ -1,34 +1,31 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Blanpain":
+  - firstname: ["Cédric", "C."]
+    url: https://blanpainlab.ulb.ac.be/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Van Keymeulen":
+  - firstname: ["Alexandra", "A."]
+    url: https://www.ulb.be/fr/alexandra-van-keymeulen-1
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Jiang":
+  - firstname: ["Chen", "C."]
+    # url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Fioramonti":
+  - firstname: ["Marco", "M."]
+    # url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Rorive":
+  - firstname: ["Sandrine", "S."]
+    url: https://lisa.polytech.ulb.be/en/team/collaborators/dr-sandrine-rorive-md-phd
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Bauduin":
+  - firstname: ["Anaïs", "A."]
+    # url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Sifrim":
+  - firstname: ["Alejandro", "A."]
+    url: https://www.kuleuven.be/wieiswie/en/person/00041034
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Pastushenko":
+  - firstname: ["Ievgenia", "I."]
+    url: https://scholar.google.com/citations?user=INH3cXsAAAAJ&hl=en
